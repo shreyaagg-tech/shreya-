@@ -1,6 +1,9 @@
+![logo](https://github.com/shreyaagg-tech/shreya-/blob/main/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Shreya Aggarwal</h1>
 <h3 align="center">First year</h3>
 
+<img align="right" alt="coding" width=100 border radius=10 src="https://media.tenor.com/6JptszQgCnkAAAAm/text-work.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaagg-tech&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaagg-tech" /> </p>
 
 - 🔭 I’m currently working on **travelling website**
